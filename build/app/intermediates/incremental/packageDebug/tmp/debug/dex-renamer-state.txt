@@ -1,0 +1,4 @@
+#Fri Jan 24 10:12:03 IST 2020
+base.0=/home/novisync/Documents/flutter_push_notifications_firebase/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
